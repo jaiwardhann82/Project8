@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16968" started-at="2022-02-05T02:22:20 PST" finished-at="2022-02-05T02:22:37 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16968" started-at="2022-02-05T02:22:20 PST" finished-at="2022-02-05T02:22:37 PST">
+      <class name="Assignment.Project6.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Assignment.Project6.NewTest@73ad2d6]" name="beforeTest" is-config="true" duration-ms="3954" started-at="2022-02-05T02:22:20 PST" finished-at="2022-02-05T02:22:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="BankUserLogin()[pri:0, instance:Assignment.Project6.NewTest@73ad2d6]" name="BankUserLogin" duration-ms="3036" started-at="2022-02-05T02:22:24 PST" finished-at="2022-02-05T02:22:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BankUserLogin -->
+        <test-method status="PASS" signature="CustomerRegistration()[pri:0, instance:Assignment.Project6.NewTest@73ad2d6]" name="CustomerRegistration" duration-ms="5566" started-at="2022-02-05T02:22:27 PST" finished-at="2022-02-05T02:22:32 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerRegistration -->
+        <test-method status="PASS" signature="CustomerTransaction()[pri:0, instance:Assignment.Project6.NewTest@73ad2d6]" name="CustomerTransaction" duration-ms="3591" started-at="2022-02-05T02:22:32 PST" finished-at="2022-02-05T02:22:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerTransaction -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Assignment.Project6.NewTest@73ad2d6]" name="afterTest" is-config="true" duration-ms="778" started-at="2022-02-05T02:22:36 PST" finished-at="2022-02-05T02:22:37 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Assignment.Project6.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
